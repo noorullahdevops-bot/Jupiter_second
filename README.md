@@ -1,2 +1,4 @@
 # Jupiter_second
-This is my second oe
+This is my second one.
+
+Todays practice.
