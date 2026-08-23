@@ -1,3 +1,5 @@
 Performing merge.
 Performing pull.
 Performing cherry-pick.
+
+End file.
