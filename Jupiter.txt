@@ -1,3 +1,2 @@
 Performing merge.
 
-Performing cherry-pick.
